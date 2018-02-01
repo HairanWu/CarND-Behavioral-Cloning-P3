@@ -19,6 +19,7 @@ To meet specifications, the project will require submitting five files:
 In this project:
 * run1.mp4 (a video recording of lake full lap)
 * run2.mp4 (a video recording of jungle full lap)
+
 Simulator shown as following:
 
 ![](resources/lake.jpg)
