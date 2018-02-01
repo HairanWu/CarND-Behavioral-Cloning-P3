@@ -15,8 +15,9 @@ To meet specifications, the project will require submitting five files:
 * model.h5 (a trained Keras model)
 * a report writeup file (either markdown or pdf)
 * video.mp4 (a video recording of your vehicle driving autonomously around the track for at least one full lap)
-** run1.mp4 (a video recording of lake full lap)
-** run2.mp4 (a video recording of jungle full lap)
+
+* run1.mp4 (a video recording of lake full lap)
+* run2.mp4 (a video recording of jungle full lap)
 Simulator shown as following:
 
 ![](resources/lake.jpg)
