@@ -846,7 +846,7 @@ HTML("""
 
 
 
-## Step 7: Model Fine tuned to another jungle dataset
+## Step 8: Model Fine tuned to jungle dataset
 
 
 ```python
